@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4450
     wikipedia: http://en.wikipedia.org/wiki/Robert_Wilson_Lynd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13448#The-Pleasures-of-Ignorance
 gutenberg_issued: '2004-09-12'
 gutenberg_type: Text
 identifiers:
